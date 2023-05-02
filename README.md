@@ -10,4 +10,10 @@ pip install Decimal
 ```
 The second command is only required if customtkinter doesn't install it automatically.
 ### --Plans & Costs--
-(TO BE CONTINUED)
+BASIC - $5/Month:
+ - Access to the following applications:
+        - Calculator
+        - BMI Calculator
+        - Distance Converter
+        - And More(See category: "Plan - Basic")
+
