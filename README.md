@@ -9,3 +9,4 @@ pip install darkdetect
 pip install Decimal
 ```
 The second command is only required if customtkinter doesn't install it automatically.
+abcd
